@@ -9,6 +9,7 @@ export const dataTableConfig = {
     { label: 'Is empty', value: 'isEmpty' as const },
     { label: 'Is not empty', value: 'isNotEmpty' as const }
   ],
+
   numericOperators: [
     { label: 'Is', value: 'eq' as const },
     { label: 'Is not', value: 'ne' as const },
